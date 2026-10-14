@@ -1,0 +1,12 @@
+
+{
+  "geode": "v5.11.1",
+  "gd": {
+    "android": "2.2144"
+  },
+  "id": "hoangphuc8848.ai_creator",
+  "name": "AI Creator",
+  "version": "v0.1.0",
+  "developer": "hoangphuc8848",
+  "description": "AI assistant for Geometry Dash level creation."
+}
